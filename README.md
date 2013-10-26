@@ -1,4 +1,4 @@
-test_repo_swc_bootcamp
-======================
+A test repo for SEC bootcamp
+============================
 
 Practice repo for bootcamp
